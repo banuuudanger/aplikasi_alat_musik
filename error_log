@@ -1,0 +1,20 @@
+[08-Jul-2024 14:40:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mobw7774/public_html/api_banu/get_products.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mobw7774/public_html/api_banu/get_products.php on line 19
+[08-Jul-2024 14:42:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mobw7774/public_html/api_banu/get_products.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mobw7774/public_html/api_banu/get_products.php on line 19
+[08-Jul-2024 14:42:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mobw7774/public_html/api_banu/get_products.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mobw7774/public_html/api_banu/get_products.php on line 19
+[08-Jul-2024 14:44:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mobw7774/public_html/api_banu/get_products.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mobw7774/public_html/api_banu/get_products.php on line 19
+[08-Jul-2024 14:44:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mobw7774/public_html/api_banu/get_products.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mobw7774/public_html/api_banu/get_products.php on line 19
